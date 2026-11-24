@@ -190,6 +190,7 @@ pytest
 ---
 
 ## 👤 Author
+-Zeyad Abdelhaleem
 
 **<Your Name>** · [LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
 
