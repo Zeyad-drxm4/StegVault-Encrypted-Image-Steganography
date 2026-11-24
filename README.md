@@ -192,6 +192,5 @@ pytest
 ## 👤 Author
 Zeyad Abdelhaleem
 
-**<Zeyad Abdelhalem>** · [LinkedIn](www.linkedin.com/in/zeyad-abdelhalem-4998b634b) 
 
 
