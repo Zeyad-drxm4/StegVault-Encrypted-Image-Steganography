@@ -192,6 +192,6 @@ pytest
 ## 👤 Author
 Zeyad Abdelhaleem
 
-**<Your Name>** · [LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
+**<Zeyad Abdelhalem>** · [LinkedIn](www.linkedin.com/in/zeyad-abdelhalem-4998b634b) 
 
 
