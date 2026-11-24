@@ -7,8 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=white)
 ![Encryption](https://img.shields.io/badge/encryption-AES--256--GCM-success)
 ![KDF](https://img.shields.io/badge/KDF-scrypt-informational)
-![Tests](https://img.shields.io/badge/tests-16%20passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+
 
 </div>
 
